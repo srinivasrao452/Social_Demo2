@@ -1,1 +1,3 @@
 Python is easy.
+
+DJANGO IS MORE EASY
